@@ -3,7 +3,11 @@
 ## Design notes
 
 These notes explain the layout decisions behind `entry.png`, the 1024x1024
-broadsheet poster for Thursday 19 November 2026.
+broadsheet poster for Thursday 19 November 2026. The page is a one-day world
+news digest: all 38 stories on it - the 3 hero cards, 5 secondary cards,
+6 tertiary cards, and 24 evening briefs - were reported or first published
+on Thursday 19 November 2026, and the layout exists to give that one day the
+shape and density of a real newspaper front page rather than a summary list.
 
 **Why cream paper.** The background is newsprint cream, not white, because the
 page is arguing that it is a newspaper front page; cream stock reads instantly
@@ -47,3 +51,15 @@ and 144-drone Kyiv attack, all Wednesday), attributes every source, and notes
 that disputed claims are attributed rather than asserted. On a page claiming
 "everything on this page happened or was first reported today," the footer is
 what makes that claim checkable instead of decorative.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
